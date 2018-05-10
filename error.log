@@ -1,0 +1,9 @@
+[Tue Jan 09 11:40:48.386283 2018] [authz_core:error] [pid 957:tid 140567143319296] [client 192.168.1.3:18452] AH01630: client denied by server configuration: /var/www/
+[Tue Jan 09 11:40:49.073557 2018] [authz_core:error] [pid 957:tid 140567134926592] [client 192.168.1.3:18452] AH01630: client denied by server configuration: /var/www/favicon.ico, referer: http://192.168.1.6/
+[Tue Jan 09 11:59:36.433832 2018] [authz_core:error] [pid 957:tid 140567126533888] [client 192.168.1.3:18540] AH01630: client denied by server configuration: /var/www/test.html
+[Tue Jan 09 11:59:37.269293 2018] [authz_core:error] [pid 957:tid 140567118141184] [client 192.168.1.3:18540] AH01630: client denied by server configuration: /var/www/favicon.ico, referer: http://192.168.1.6/test.html
+[Tue Jan 09 12:01:33.704195 2018] [authz_core:error] [pid 957:tid 140567006660352] [client 192.168.1.3:18551] AH01630: client denied by server configuration: /var/www/test.html
+[Tue Jan 09 12:01:33.788439 2018] [authz_core:error] [pid 957:tid 140567015053056] [client 192.168.1.3:18551] AH01630: client denied by server configuration: /var/www/favicon.ico, referer: http://192.168.1.6/test.html
+[Wed Jan 10 11:32:19.494483 2018] [authz_core:error] [pid 970:tid 140637193811712] [client 192.168.1.3:20972] AH01630: client denied by server configuration: /var/www/test.html
+[Wed Jan 10 11:32:19.532830 2018] [authz_core:error] [pid 970:tid 140637185419008] [client 192.168.1.3:20972] AH01630: client denied by server configuration: /var/www/favicon.ico, referer: http://192.168.1.6/test.html
+[Wed Jan 10 11:45:36.789795 2018] [core:error] [pid 1238:tid 139889904093056] (EAI 2)Name or service not known: AH00549: Failed to resolve server name for 10.1.10.42 (check DNS) -- or specify an explicit ServerName
